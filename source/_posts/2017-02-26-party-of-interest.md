@@ -1,6 +1,7 @@
 ---
 title: 兴趣团队简介
 date: 2017-02-26 10:16:10
+header-img: match.jpg
 tags: 科协俱乐部
 categories: 
 - 部门介绍

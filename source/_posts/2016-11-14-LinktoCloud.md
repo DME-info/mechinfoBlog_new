@@ -1,6 +1,7 @@
 ---
 title: Mechinfo学习资源长期放送中～
 date: 2016-11-14 21:57:04
+header-img: "studying.png"
 categories: 
 - 友情链接
 - 复习资料
@@ -31,5 +32,7 @@ top: 2
 ### {% link 数理方程 http://cloud.mechinfo.me/index.php/f/46384 %}
 ### {% link 复变函数 http://cloud.mechinfo.me/index.php/f/46416 %}
 ---
-{% asset_img studying.png Study hard, day-day up! %}
 
+<div class="card">
+{% asset_img studying.png "Study hard, day-day up!" %}
+</div>

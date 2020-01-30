@@ -1,6 +1,7 @@
 ---
 title: 机械迷城大赛2.0比赛规则
 date: 2017-06-22 19:12:30
+header-img: "0.jpg"
 tags: 科协赛事部
 categories:
 - 资讯推送

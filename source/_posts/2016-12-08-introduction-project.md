@@ -1,6 +1,7 @@
 ---
 title: 清华大学机械系科协项目部
 date: 2016-12-08 00:22:58
+header-img: "labview.jpg"
 categories: 
 - 部门介绍
 - 科协项目部

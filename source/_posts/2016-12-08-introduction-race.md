@@ -1,6 +1,7 @@
 ---
 title: 清华大学机械系科协赛事部
 date: 2016-12-08 00:31:14
+header-img: "0.jpg"
 categories: 
 - 部门介绍
 - 科协赛事部

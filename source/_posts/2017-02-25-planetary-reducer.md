@@ -1,6 +1,7 @@
 ---
 title: 行星减速机
 date: 2017-02-25 22:09:39
+header-img: 1.png
 categories: 
 - 技术文档
 - 其他
