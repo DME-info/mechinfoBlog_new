@@ -76,7 +76,11 @@ top: 0
 </center>
 
 &nbsp;&nbsp;&nbsp;&nbsp;本学期的讲座预计还将举办两次，下次讲座将于第六周举办，内容是有关单片机的基础与简单应用，届时请大家关注机械之声推送以及相关海报。
-![](6.jpg)
+<div class="card">
+
+{% asset_img 6.jpg %}
+
+</div>
 <center>
 第二次机客养成计划讲座
 </center>
