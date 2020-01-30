@@ -219,7 +219,7 @@ bg_effects:
     zIndex: -9
     count: 99
   mouse_click:
-    enable: true
+    enable: false
     content: '"🌱","just do it","🌾","🍀","don''t give up","🍂","🌻","try it again","🍃","never say die","🌵","🌿","🌴"'
     color: '"rgb(121,93,179)"
           ,"rgb(76,180,231)"
