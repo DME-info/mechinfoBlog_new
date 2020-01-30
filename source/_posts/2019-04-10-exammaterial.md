@@ -1,7 +1,7 @@
 ---
 title: 期中复习资料发放啦
-
 date: 2019-04-10 19:12:30
+header-img: "0.jpg"	
 tags:
   - 科协学习部
 categories:

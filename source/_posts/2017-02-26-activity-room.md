@@ -1,7 +1,7 @@
 ---
 title: 活动室简介
 date: 2017-02-26 10:16:25
-header-img: ""
+header-img: "2.jpg"
 tags: 科协俱乐部
 categories: 
 - 技术文档
